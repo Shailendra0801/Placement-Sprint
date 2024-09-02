@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [1848-sum-of-unique-elements](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1848-sum-of-unique-elements) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
