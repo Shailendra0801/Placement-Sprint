@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
+| [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
 | [1848-sum-of-unique-elements](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1848-sum-of-unique-elements) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
 | [1848-sum-of-unique-elements](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1848-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2132-convert-1d-array-into-2d-array) |
