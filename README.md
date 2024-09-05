@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0367-valid-perfect-square) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2155-find-missing-observations](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2155-find-missing-observations) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Brainteaser
