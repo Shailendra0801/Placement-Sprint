@@ -13,7 +13,7 @@ public:
             s.push(num);
         }
         
-        std::vector<int> result;
+        vector<int> result;
         for (int num : nums1) {
             result.push_back(nextGreater.count(num) ? nextGreater[num] : -1);
         }
