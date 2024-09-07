@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
+| [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0237-delete-node-in-a-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
