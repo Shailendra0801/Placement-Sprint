@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0367-valid-perfect-square) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2155-find-missing-observations](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2155-find-missing-observations) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2573-remove-nodes-from-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1127-last-stone-weight) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
