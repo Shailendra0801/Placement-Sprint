@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2551-apply-operations-to-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2551-apply-operations-to-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -182,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 <!---LeetCode Topics End-->
