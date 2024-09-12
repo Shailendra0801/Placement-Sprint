@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0067-add-binary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
