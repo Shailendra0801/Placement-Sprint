@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0145-binary-tree-postorder-traversal) |
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
