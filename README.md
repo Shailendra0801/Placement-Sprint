@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
+| [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [0739-daily-temperatures](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0367-valid-perfect-square) |
+| [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1879-maximum-score-from-removing-stones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2155-find-missing-observations](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2155-find-missing-observations) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0067-add-binary) |
+| [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
+| [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Database
