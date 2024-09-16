@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0011-container-with-most-water) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1879-maximum-score-from-removing-stones) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Bit Manipulation
