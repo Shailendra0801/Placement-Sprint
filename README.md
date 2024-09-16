@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0234-palindrome-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0125-valid-palindrome) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
