@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0179-largest-number) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1879-maximum-score-from-removing-stones) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Bit Manipulation
