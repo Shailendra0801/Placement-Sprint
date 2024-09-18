@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
