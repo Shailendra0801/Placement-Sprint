@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2551-apply-operations-to-an-array) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2411-spiral-matrix-iv) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Math
 |  |
 | ------- |
