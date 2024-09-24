@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [0739-daily-temperatures](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0739-daily-temperatures) |
+| [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 | [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1127-last-stone-weight) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0400-nth-digit) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
+| [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1879-maximum-score-from-removing-stones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2155-find-missing-observations](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2155-find-missing-observations) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0241-different-ways-to-add-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
+| [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0292-nim-game) |
+| [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 ## Linked List
 |  |
 | ------- |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0214-shortest-palindrome) |
+## Interactive
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
