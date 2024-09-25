@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0367-valid-perfect-square) |
