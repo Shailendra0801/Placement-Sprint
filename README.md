@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2350-find-closest-number-to-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2411-spiral-matrix-iv) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2551-apply-operations-to-an-array) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1848-sum-of-unique-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
