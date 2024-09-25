@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0074-search-a-2d-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
