@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0739-daily-temperatures) |
 | [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 | [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
@@ -161,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0400-nth-digit) |
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0238-product-of-array-except-self) |
+| [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -398,12 +401,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
