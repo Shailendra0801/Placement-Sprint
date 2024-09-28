@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0859-design-circular-deque) |
 | [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 | [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2411-spiral-matrix-iv) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
