@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1848-sum-of-unique-elements) |
+| [1899-count-items-matching-a-rule](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1899-count-items-matching-a-rule) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1894-merge-strings-alternately) |
+| [1899-count-items-matching-a-rule](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2190-count-common-words-with-one-occurrence) |
