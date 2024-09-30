@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
@@ -451,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
