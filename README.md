@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2755-extra-characters-in-a-string) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1848-sum-of-unique-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1256-rank-transform-of-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Database
 |  |
 | ------- |
