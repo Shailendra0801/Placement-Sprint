@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0400-nth-digit](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0400-nth-digit) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1879-maximum-score-from-removing-stones) |
