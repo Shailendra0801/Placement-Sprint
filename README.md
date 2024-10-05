@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1256-rank-transform-of-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1894-merge-strings-alternately) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0567-permutation-in-string) |
 | [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
