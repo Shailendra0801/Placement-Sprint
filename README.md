@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0739-daily-temperatures) |
+| [0822-unique-morse-code-words](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0822-unique-morse-code-words) |
 | [0859-design-circular-deque](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0860-design-circular-queue) |
 | [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0567-permutation-in-string) |
+| [0822-unique-morse-code-words](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0822-unique-morse-code-words) |
 | [0906-walking-robot-simulation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1256-rank-transform-of-an-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0567-permutation-in-string) |
+| [0822-unique-morse-code-words](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0822-unique-morse-code-words) |
 | [0873-guess-the-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0873-guess-the-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
