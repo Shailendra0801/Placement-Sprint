@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0496-next-greater-element-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0539-minimum-time-difference) |
