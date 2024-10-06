@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0234-palindrome-linked-list) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0241-different-ways-to-add-parentheses) |
