@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2551-apply-operations-to-an-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Brainteaser
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2573-remove-nodes-from-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
