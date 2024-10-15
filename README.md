@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0191-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
