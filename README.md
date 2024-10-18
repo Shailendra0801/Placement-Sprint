@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2350-find-closest-number-to-zero](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2350-find-closest-number-to-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2411-spiral-matrix-iv) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -581,4 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0274-h-index) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
