@@ -15,10 +15,10 @@ class Solution {
         int[] count = new int[26];
         char[] a = s.toCharArray();
         for (int i = 0; i < a.length; i++) {
-            ++count[a[i] - 97];
+            ++count[a[i] - 'a'];
         }
         for (int i = 0; i < a.length; i++) {
-            if(count[a[i]-97] == 1){
+            if(count[a[i] - 'a'] == 1){
                 return i;
             }
         }
