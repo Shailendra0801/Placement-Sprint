@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2755-extra-characters-in-a-string) |
+| [2825-minimize-string-length](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2825-minimize-string-length) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2825-minimize-string-length](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2825-minimize-string-length) |
 | [3195-separate-black-and-white-balls](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
