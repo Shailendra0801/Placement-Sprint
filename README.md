@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0419-battleships-in-a-board) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2677-cousins-in-binary-tree-ii) |
