@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0160-intersection-of-two-linked-lists) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0191-number-of-1-bits) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1127-last-stone-weight](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/1304-longest-happy-string) |
@@ -633,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
