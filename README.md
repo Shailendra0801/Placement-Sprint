@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3394-minimum-array-end) |
 ## Binary Search Tree
 |  |
 | ------- |
