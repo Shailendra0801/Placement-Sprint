@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2755-extra-characters-in-a-string) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3195-separate-black-and-white-balls) |
 ## Simulation
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Shailendra0801/Placement-Sprint/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Shailendra0801/Placement-Sprint/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Shailendra0801/Placement-Sprint/tree/master/3291-find-if-array-can-be-sorted) |
 ## Database
 |  |
